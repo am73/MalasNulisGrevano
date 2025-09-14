@@ -4,7 +4,7 @@
 <p>
  Tulisno is a website for generating text into handwritings.
 </p>
-Demo: http://tulisno.vercel.app/
+Demo: malasnulisgrevano.vercel.app/)
 <br>
 
 ![Tulisno Preview](https://i.imgur.com/2XU2qYo.png)
